@@ -216,3 +216,39 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# ---------------------------------------------------------------------------
+# Course companion additions (2026-11-14)
+# ---------------------------------------------------------------------------
+
+# Instructor-only files (notes, builds, backups) stay local and never ship
+.local/
+
+# Secrets, tokens, and local config
+*.env
+.env.local
+secrets/
+*.pem
+*.pfx
+*.p12
+*.key
+
+# IDE and OS noise (.vscode/ stays tracked because MCP configuration can live there)
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*~
+
+# Node
+node_modules/
+npm-debug.log*
+
+# PowerShell history
+*.ps1_history
+
+# Build and scratch
+out/
+tmp/
+scratch/
