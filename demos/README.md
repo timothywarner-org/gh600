@@ -13,4 +13,4 @@ Nothing yet. Shared material arrives with the first lesson that uses it, and the
 - **Explained, not black box.** Every file starts with help that says what it reads and what it changes.
 - **Least privilege.** Workflows grant `GITHUB_TOKEN` only the permissions each job needs, and tokens never appear in a file.
 - **Cleanup at the end.** Every lesson that changes organization settings or uses billable time says how to undo it.
-- **Fictional data.** Contoso, Ltd. and its people are made up. See [NOTICE.md](../NOTICE.md).
+- **Fictional data.** Contoso Automotive and its people are made up. See [NOTICE.md](../NOTICE.md).

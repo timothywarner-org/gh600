@@ -18,4 +18,4 @@ Other product names are trademarks of their respective owners and are used here 
 
 ## Fictional data
 
-Contoso, Ltd. and the people in the examples (Kim Akers, Debra Garcia, Garth Fort, and Katie Jordan), along with their domains and addresses, are fictional. Any resemblance to real organizations or people is coincidental.
+Contoso Automotive, Northwind Electric Cars, and the people in the examples (Kim Akers, Debra Garcia, Garth Fort, and Katie Jordan), along with their domains, addresses, vehicles, VINs and recalls, are fictional. Any resemblance to real organizations or people is coincidental.
