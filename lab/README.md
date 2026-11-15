@@ -68,6 +68,6 @@ Copilot cloud agent uses GitHub Actions compute and your Copilot plan's usage al
 
 ## Fictional data
 
-Contoso, Ltd. and its people (Kim Akers, Debra Garcia, Garth Fort, and Katie Jordan) are made up. See [NOTICE.md](../NOTICE.md).
+Contoso Automotive and its people (Kim Akers, Debra Garcia, Garth Fort, and Katie Jordan) are made up. See [NOTICE.md](../NOTICE.md).
 
 Found a step that no longer matches GitHub.com or Visual Studio Code? Open an issue with the *Content question or demo issue* template.
